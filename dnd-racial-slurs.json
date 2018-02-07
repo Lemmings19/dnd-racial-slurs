@@ -20,7 +20,7 @@
             "Chickenbrain",
             "God's Pet",
             "Goody Two Shoes",
-            "Wingless Earthbound Bastard Half breed"
+            "Wingless Earthbound Bastard Half Breed"
         ]
     },
     {
@@ -72,7 +72,7 @@
         "list" : [
             "Ash-Face",
             "Cavemen",
-            "Chimmney Sweep",
+            "Chimney Sweep",
             "Dirt Elves",
             "Dwarven Imposter",
             "Filth-Skin",
@@ -114,11 +114,11 @@
             "Pubic Face",
             "Pump Sucker",
             "Pyrite-Muncher",
-            "Rock Bitter",
+            "Rock Biter",
             "Rock Eater",
             "Rockhead",
             "Spuds (both are lumpy and come from the ground)",
-            "Squash (look like squashed humans)",
+            "Squash (they look like squashed humans)",
             "Stone Domes",
             "Stone Humper",
             "Stone Sh*tter",
@@ -275,7 +275,7 @@
         ]
     },
     {
-        "title" : "Half-Elves (by elves)",
+        "title" : "Half-Elves (from elves)",
         "list" : [
             "Bastards",
             "Half Bad",
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "title" : "Half-Elves (by humans)",
+        "title" : "Half-Elves (from humans)",
         "list" : [
             "Fling Kids",
             "Half Good",
@@ -330,7 +330,7 @@
         "list" : [
             "Cattle",
             "Dire Halfling",
-            "Doubling (by halflings)",
+            "Doubling (from halflings)",
             "Dust",
             "Full-Lings",
             "Generic Protag #435 (if a PC)",
@@ -338,7 +338,7 @@
             "Joe Bloggs",
             "Lumberfoot",
             "Mayfly",
-            "Milkskins (orcs on humans)",
+            "Milkskins (from orcs)",
             "Monkey",
             "Monkeys",
             "Morties",
@@ -348,7 +348,7 @@
             "Pink-Skin",
             "Pinks",
             "Quisling (a human who spends a lot of time around a dragonborn)",
-            "Rabbit Spawn (from the elf point of view because of how fast they seem to breed to them)",
+            "Rabbit Spawn (from elves because of how fast humans breed by comparison)",
             "Round Ears",
             "Roundteeth",
             "Short-Life",
@@ -358,9 +358,9 @@
             "Spoon-Ears",
             "Succling",
             "Swine",
-            "Tree-Killers (by elves)",
+            "Tree-Killers (from elves)",
             "Whore-Race (they're the reason for half breeds)",
-            "World-Blight (by elves)"
+            "World-Blight (from elves)"
         ]
     },
     {
@@ -482,9 +482,9 @@
         "title" : "Triton",
         "list" : [
             "Coral Eater",
-            "Dolphin born",
+            "Dolphin Born",
             "Fish F*cker",
-            "Wet blanket"
+            "Wet Blanket"
         ]
     },
     {
