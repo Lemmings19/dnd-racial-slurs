@@ -1,0 +1,514 @@
+[
+    {
+        "title" : "Aarakocra",
+        "list" : [
+            "Bird-Man",
+            "Caw-Caws",
+            "Crow",
+            "Hollowbones",
+            "Parrot (in tropical/port cities)",
+            "Pigeon",
+            "Raven"
+        ]
+    },
+    {
+        "title" : "Aasimar",
+        "list" : [
+            "Angel Face",
+            "Birdy",
+            "Chicken",
+            "Chickenbrain",
+            "God's Pet",
+            "Goody Two Shoes",
+            "Wingless Earthbound Bastard Half breed"
+        ]
+    },
+    {
+        "title" : "Anyone who isn't water breathing",
+        "list" : [
+            "Drowner",
+            "Landdweller",
+            "Landwalker",
+            "Mouth-Breather"
+        ]
+    },
+    {
+        "title" : "Centuars",
+        "list" : [
+            "Clippity-Clops",
+            "Half-Horses",
+            "Horse Bastards"
+        ]
+    },
+    {
+        "title" : "Dragonborns",
+        "list" : [
+            "Boot",
+            "Dragon Refuse",
+            "Fake-Drakes",
+            "Fly Eater",
+            "Forked-Tongues",
+            "Gecko",
+            "Iguana Wannabe",
+            "Lizard",
+            "Lizard Brain",
+            "Lizardfolk",
+            "Man-Eater",
+            "Newt",
+            "Overgrown Iguana",
+            "Scalebacks",
+            "Scales",
+            "Scalie",
+            "Skinks",
+            "Snakeskin",
+            "Tall Kobold",
+            "Walking Purse",
+            "Wyrm Reject",
+            "Wyrm Wannabe"
+        ]
+    },
+    {
+        "title" : "Drow",
+        "list" : [
+            "Ash-Face",
+            "Cavemen",
+            "Chimmney Sweep",
+            "Dirt Elves",
+            "Dwarven Imposter",
+            "Filth-Skin",
+            "Moss Licker",
+            "Murker",
+            "Spider Kisser",
+            "Tall Dwarfs",
+            "Underscum"
+        ]
+    },
+    {
+        "title" : "Dwarves",
+        "list" : [
+            "Angry Footstool",
+            "Beard-Goblin",
+            "Bushies",
+            "Cave Hippo",
+            "Copper Polisher",
+            "Dirt Farie",
+            "Dirt-Licker",
+            "Flea-Bearded Alestain",
+            "Giant Snot",
+            "Gnomes",
+            "Gold Digger",
+            "Gut Draggers",
+            "Gutter Rats",
+            "Hairy Brewery",
+            "Hairy Halfling",
+            "Half-Man",
+            "Half-Sized Alcoholic",
+            "Hammer Midget",
+            "Hill Farie",
+            "Keg Belly",
+            "Knoties",
+            "Lumberfoot",
+            "Maggots (according to legend!)",
+            "Mountain Farie",
+            "Oremonger",
+            "Pubic Face",
+            "Pump Sucker",
+            "Pyrite-Muncher",
+            "Rock Bitter",
+            "Rock Eater",
+            "Rockhead",
+            "Spuds (both are lumpy and come from the ground)",
+            "Squash (look like squashed humans)",
+            "Stone Domes",
+            "Stone Humper",
+            "Stone Sh*tter",
+            "Stunt",
+            "Stunty",
+            "Teapot",
+            "Tunnel Rat"
+        ]
+    },
+    {
+        "title" : "Elves",
+        "list" : [
+            "Arrogant Stuck Up Tree Fondling Hippies",
+            "Bark Sniffer",
+            "Beardless",
+            "Bird Boned",
+            "Butterboys",
+            "Chinfolk",
+            "Daggar Head",
+            "Daisy Sniffer",
+            "Dandelion Eater",
+            "Dew Drinker",
+            "Discount Dryad",
+            "Drow (except to actual drow)",
+            "Fairy Folk",
+            "Faithless Woodland Sprite",
+            "Fancy Lad",
+            "Farie Wannabes",
+            "Fey Mongrols",
+            "Keeb",
+            "Knife-Ears",
+            "Leaf Lickers",
+            "Leafblower",
+            "Left Handed Casters",
+            "Light Weights",
+            "Mushroom Dancers",
+            "Oozebait (especially elf children)",
+            "Pixie",
+            "Pointy",
+            "Pointy Ears",
+            "Pole-Proportioned Dendrophile",
+            "Rabbit",
+            "Sharp Ears",
+            "Tinkerbell",
+            "Tree F*cker",
+            "Tree Hugger",
+            "Tree-Thumpers",
+            "Waste of Immorality",
+            "Wedgie (they're uptight)",
+            "Weed Eater",
+            "Wingless Farie",
+            "Wood-Heads"
+        ]
+    },
+    {
+        "title" : "Firebolg",
+        "list" : [
+            "Giant Half-Breed",
+            "Half-Baked Goliath",
+            "Overgrown Dwarf"
+        ]
+    },
+    {
+        "title" : "Genasi (Air)",
+        "list" : [
+            "Leaf Blower",
+            "Spark Plug",
+            "Unfavorable Fart (from orcs; orcs aren't great at throwing shade)",
+            "Windbags"
+        ]
+    },
+    {
+        "title" : "Genasi (Earth)",
+        "list" : [
+            "Gravel Bed",
+            "Sedimentary",
+            "Slabs"
+        ]
+    },
+    {
+        "title" : "Genasi (Fire)",
+        "list" : [
+            "Cold Heart",
+            "Hazard",
+            "Matchstick",
+            "Sunburn"
+        ]
+    },
+    {
+        "title" : "Genasi (Water)",
+        "list" : [
+            "Algae Infested",
+            "Salty",
+            "Soakhead"
+        ]
+    },
+    {
+        "title" : "Giants",
+        "list" : [
+            "Nesthair (birds tend to nest in high places)",
+            "Tumbletower (tall like a tower, but more easy to knock down)"
+        ]
+    },
+    {
+        "title" : "Gnoll",
+        "list" : [
+            "Carrion-Eaters",
+            "Cur",
+            "Dog",
+            "Hunger Slave",
+            "Mutt"
+        ]
+    },
+    {
+        "title" : "Gnomes",
+        "list" : [
+            "Ankle Biter",
+            "Bug-Eyed Stumps",
+            "Cone Head",
+            "Discount Dwarf",
+            "Dwarflings",
+            "Fat Fairy",
+            "Glamer-Slingers",
+            "Halfling",
+            "KneeLicker",
+            "Lawn Darts",
+            "Lawn Ornaments",
+            "Mini-Elf",
+            "Mushroom Sucker",
+            "Quarterling",
+            "Shaved Hobgoblin",
+            "Sniffers",
+            "Tinkertots",
+            "Trickster"
+        ]
+    },
+    {
+        "title" : "Goblins",
+        "list" : [
+            "Gobber",
+            "Greenskin",
+            "Orcslave",
+            "Slimeskin",
+            "Toothpick-Nose",
+            "Trash Gnome"
+        ]
+    },
+    {
+        "title" : "Goliath",
+        "list" : [
+            "Mini-Giant",
+            "Stoneskin",
+            "Tribal Boy"
+        ]
+    },
+    {
+        "title" : "Half-Elves (by elves)",
+        "list" : [
+            "Bastards",
+            "Half Bad",
+            "Half Breed",
+            "Mayfly Babies",
+            "Mongrels",
+            "Moodbloods"
+        ]
+    },
+    {
+        "title" : "Half-Elves (by humans)",
+        "list" : [
+            "Fling Kids",
+            "Half Good",
+            "Halfways",
+            "Mules",
+            "Mutts",
+            "Not Enough",
+            "Traitor Babies"
+        ]
+    },
+    {
+        "title" : "Halflings",
+        "list" : [
+            "All-You-Can-Eat",
+            "Ankle Biter",
+            "Arm Rest",
+            "Bilbo",
+            "Children",
+            "Dire-Midged",
+            "Dwarfling",
+            "Fairy Giant",
+            "Gnome",
+            "Hairless Dwarf",
+            "Hairy Doorstop",
+            "Half Men",
+            "Hill Goblin",
+            "Hobbit",
+            "Leatherfoot",
+            "Runt",
+            "Shaved Dwarf",
+            "Shin Licker",
+            "Small Fry",
+            "Sneakies",
+            "Sticky Fingers",
+            "Succling",
+            "Swine"
+        ]
+    },
+    {
+        "title" : "Humans",
+        "list" : [
+            "Cattle",
+            "Dire Halfling",
+            "Doubling (by halflings)",
+            "Dust",
+            "Full-Lings",
+            "Generic Protag #435 (if a PC)",
+            "Graceless Elf",
+            "Joe Bloggs",
+            "Lumberfoot",
+            "Mayfly",
+            "Milkskins (orcs on humans)",
+            "Monkey",
+            "Monkeys",
+            "Morties",
+            "Normie",
+            "Pig Skin",
+            "Pink Thing",
+            "Pink-Skin",
+            "Pinks",
+            "Quisling (a human who spends a lot of time around a dragonborn)",
+            "Rabbit Spawn (from the elf point of view because of how fast they seem to breed to them)",
+            "Round Ears",
+            "Roundteeth",
+            "Short-Life",
+            "Shortlived",
+            "Smoothskin",
+            "Soft One (from lizardfolk)",
+            "Spoon-Ears",
+            "Succling",
+            "Swine",
+            "Tree-Killers (by elves)",
+            "Whore-Race (they're the reason for half breeds)",
+            "World-Blight (by elves)"
+        ]
+    },
+    {
+        "title" : "Indirect Racial Slurs",
+        "list" : [
+            "A bag of leftovers from a restaurant: \"<em>An Orc-y Bag</em>\"",
+            "A dagger: \"<em>A Gnomish Greatsword</em>\"",
+            "Bad breath: \"<em>Dragonborn Singing</em>\"",
+            "Barrels of whiskey: \"<em>Dwarven Wetnurse</em>\"",
+            "Happy endings at a massage parlor: \"<em>Human Style</em>\"",
+            "Laying a dwarf or gnome: \"<em>Boulder Rolling</em>\"",
+            "Picking a lock: \"<em>Banging a Halfling's Sister</em>\"",
+            "Pickpocketing: \"<em>Halfing Handshake</em>\"",
+            "Public drunkenness: \"<em>Going Dwarven</em>\"",
+            "Stealing a horse: \"<em>Taking a Half-Orc Bride</em>\"",
+            "The act of going barefoot: \"<em>Wearing Halfling Shoes</em>\" (some stores have signs forbidding halfling shoes)",
+            "The bastard children of non-human races: \"<em>Half-Man</em>\"",
+            "Unshaven men: \"<em>Dwarf Babies</em>\"",
+            "Vegetables: \"<em>Elf Food</em>\"",
+            "Whiskey: \"<em>Dwarf Milk</em>\""
+        ]
+    },
+    {
+        "title" : "Kenku",
+        "list" : [
+            "Caw-Caws",
+            "Copycats",
+            "Crow",
+            "Flightless",
+            "Hollowbones",
+            "Jabbers",
+            "Mockingbirds",
+            "Noisemakers",
+            "Parrot (in tropical/port cities)",
+            "Peckers",
+            "Raven"
+        ]
+    },
+    {
+        "title" : "Kobolds",
+        "list" : [
+            "Little Lizardfolk",
+            "Scaly Gnomes",
+            "Yippers"
+        ]
+    },
+    {
+        "title" : "Non-Dragonborn",
+        "list" : [
+            "Maunthreki"
+        ]
+    },
+    {
+        "title" : "Non-Drow",
+        "list" : [
+            "Iblith (meaning excrement)"
+        ]
+    },
+    {
+        "title" : "Orcs / Half-Orcs",
+        "list" : [
+            "Broccoli Head",
+            "Dorc",
+            "Forc",
+            "Green Ape",
+            "Greenskins",
+            "Grunt",
+            "Halfbreed",
+            "Lumberfoot",
+            "Necro-Breath",
+            "Ogre Droppings",
+            "Orcy McOrcface",
+            "Pig-Face",
+            "Savages",
+            "Scumbreed",
+            "Slimeskin",
+            "Swampskin",
+            "The Green Beast (referring collectively)",
+            "Tusk-Face",
+            "Tuskers"
+        ]
+    },
+    {
+        "title" : "Tabaxi",
+        "list" : [
+            "Cat",
+            "Fleabag",
+            "Hairball",
+            "Worm Farm"
+        ]
+    },
+    {
+        "title" : "Tieflings",
+        "list" : [
+            "Brighteyes",
+            "Bullheads",
+            "Clip-Clops",
+            "Demon Child",
+            "Devil Bastard",
+            "Devil Spawn",
+            "Failbirth",
+            "Filth",
+            "Freak",
+            "Gargoyles",
+            "Goat Face",
+            "Half-Hells",
+            "Handle Heads",
+            "Hell-Touched",
+            "Hellspawn",
+            "Pox",
+            "Sideshow",
+            "Tainted Ones",
+            "Tall Imps",
+            "Unbirth",
+            "Unloveables (from demons)"
+        ]
+    },
+    {
+        "title" : "Triton",
+        "list" : [
+            "Coral Eater",
+            "Dolphin born",
+            "Fish F*cker",
+            "Wet blanket"
+        ]
+    },
+    {
+        "title" : "Warforged",
+        "list" : [
+            "Clinking Clanking Clattering Collection of Caliginous Junk",
+            "Dolls",
+            "Dumbells",
+            "Dummies (as in training/target dummy)",
+            "Fakes / Facsimiles",
+            "Gear Head",
+            "Golem (they're living constructs)",
+            "Golems",
+            "Hunk of Junk",
+            "Lemon",
+            "Made-to-Orders",
+            "Marionettes / Puppets",
+            "Robot",
+            "Rust Bucket",
+            "Rusties",
+            "Scarecrows",
+            "Scrap Heap",
+            "Walking Casket",
+            "Walking Talking Tools"
+        ]
+    }
+]
