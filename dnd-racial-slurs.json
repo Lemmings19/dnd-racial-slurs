@@ -2,13 +2,15 @@
     {
         "title" : "Aarakocra",
         "list" : [
+            "Bird-Brains",
             "Bird-Man",
             "Caw-Caws",
             "Crow",
             "Hollowbones",
             "Parrot (in tropical/port cities)",
             "Pigeon",
-            "Raven"
+            "Raven",
+            "Vulture"
         ]
     },
     {
@@ -52,6 +54,7 @@
             "Iguana Wannabe",
             "Lizard",
             "Lizard Brain",
+            "Lizard Wizard (for magical dragonborn)",
             "Lizardfolk",
             "Man-Eater",
             "Newt",
@@ -166,7 +169,7 @@
             "Tree F*cker",
             "Tree Hugger",
             "Tree-Thumpers",
-            "Waste of Immorality",
+            "Waste of Immortality",
             "Wedgie (they're uptight)",
             "Weed Eater",
             "Wingless Farie",
@@ -174,16 +177,18 @@
         ]
     },
     {
-        "title" : "Firebolg",
+        "title" : "Firbolg",
         "list" : [
             "Giant Half-Breed",
             "Half-Baked Goliath",
+            "Moss-Brains",
             "Overgrown Dwarf"
         ]
     },
     {
         "title" : "Genasi (Air)",
         "list" : [
+            "Airhead",
             "Leaf Blower",
             "Spark Plug",
             "Unfavorable Fart (from orcs; orcs aren't great at throwing shade)",
@@ -194,8 +199,10 @@
         "title" : "Genasi (Earth)",
         "list" : [
             "Gravel Bed",
+            "Rock-for-Brains",
             "Sedimentary",
-            "Slabs"
+            "Slabs",
+            "Stone Sucker"
         ]
     },
     {
@@ -203,6 +210,8 @@
         "list" : [
             "Cold Heart",
             "Hazard",
+            "Hothead",
+            "Flameface",
             "Matchstick",
             "Sunburn"
         ]
@@ -280,6 +289,7 @@
             "Bastards",
             "Half Bad",
             "Half Breed",
+            "Halfie",
             "Mayfly Babies",
             "Mongrels",
             "Moodbloods"
@@ -336,6 +346,7 @@
             "Generic Protag #435 (if a PC)",
             "Graceless Elf",
             "Joe Bloggs",
+            "Humie",
             "Lumberfoot",
             "Mayfly",
             "Milkskins (from orcs)",
@@ -424,11 +435,14 @@
         "list" : [
             "Broccoli Head",
             "Dorc",
+            "Dire Goblin",
             "Forc",
             "Green Ape",
             "Greenskins",
+            "Gronk",
             "Grunt",
             "Halfbreed",
+            "Halfie",
             "Lumberfoot",
             "Necro-Breath",
             "Ogre Droppings",
@@ -447,8 +461,11 @@
         "title" : "Tabaxi",
         "list" : [
             "Cat",
+            "Dog Lover",
             "Fleabag",
             "Hairball",
+            "Milk Drinker",
+            "Milk Lapper",
             "Worm Farm"
         ]
     },
@@ -476,6 +493,15 @@
             "Tall Imps",
             "Unbirth",
             "Unloveables (from demons)"
+        ]
+    },
+    {
+        "title" : "Tortle",
+        "list" : [
+            "Dome Head",
+            "Shellhead",
+            "Shell-less",
+            "Slowpoke"
         ]
     },
     {
